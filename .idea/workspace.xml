@@ -1,7 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc0b3df0-9656-4362-90dd-dad79b6b0096" name="Changes" comment="" />
+    <list default="true" id="dc0b3df0-9656-4362-90dd-dad79b6b0096" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula53/DiaSemana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula53/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula54/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula54/DiaSemana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula54/Formulario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula54/TesteEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula55/TesteEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula55/TesteEnum2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula56/GeraCpfCnpj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula56/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula56/TesteDocumento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula56/TipoDocumento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula56/labs/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula56/labs/OpMatematica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula57/TesteWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula58/TesteAutoboxing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula59/StaticImport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula60/EscopoVariaveis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula60/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula61/Contato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula61/PassagemValorParametro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula62/ExemploVarargs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula63/ExemploPrintf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula64/Anonima.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula64/Externa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula64/Externa2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula64/Texto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula65/InformacaoAula.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula65/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula66/ColetorLixo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula67/MinhaThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula67/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula68/MinhaThreadRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula68/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula69/MinhaThreadRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula69/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula69/Teste2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula69/Teste3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula70/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula71/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula71/MinhaThreadSoma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula71/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula72/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula72/ThreadTiqueTaque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula72/TiqueTaque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula73/MinhaThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula73/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula74/DeadLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula74/labs/CorSemaforo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula74/labs/SimuladorSemaforo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula74/labs/ThreadSemaforo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula75_84/Aula75.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula75_84/Aula76.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula75_84/Aula77.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula75_84/Aula78.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula75_84/Aula79.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula75_84/Aula80.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula75_84/Aula81.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula75_84/Aula82.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula75_84/Aula83.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula75_84/Aula84.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula75_84/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula85_100/Aula85Math.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula85_100/Aula86Date.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula85_100/Aula87Calendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula85_100/Aula88GregorianCalendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula85_100/Aula89SimpleDateFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula85_100/Aula90Locale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula85_100/Aula91DateFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula85_100/Aula92TimeZone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula85_100/Aula93DataJava8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula85_100/Aula94DiferencasDatas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula85_100/Aula95ResourceBundle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula85_100/Aula96NumberFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula85_100/Aula97DecimalFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula85_100/Aula98BigDecimalBigInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/caroline/javaintermediario/aula85_100/Aula99Random.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java intermediario.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meu-texto.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meu-texto_pt_BR.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
